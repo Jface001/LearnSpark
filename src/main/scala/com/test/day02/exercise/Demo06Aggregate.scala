@@ -5,7 +5,6 @@ import org.apache.spark.{SparkConf, SparkContext, TaskContext}
 
 /**
  * @Author: Jface
- * @Date: 2021/8/15 18:24
  * @Desc: 练习Spark Core 中没有 Key 值的的聚合函数
  *        aggregate
  *        fold 内嵌两层函数相同的aggregate, 就可以简写成 fold

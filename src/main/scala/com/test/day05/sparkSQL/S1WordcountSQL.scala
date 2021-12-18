@@ -4,7 +4,6 @@ import org.apache.spark.sql.{Dataset, SparkSession}
 
 /**
  * @Author: Jface
- * @Date: 2021/8/19 10:00
  * @Desc:
  */
 object S1WordcountSQL {

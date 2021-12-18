@@ -4,7 +4,6 @@ import java.sql.{Connection, DriverManager, PreparedStatement, ResultSet}
 
 /**
  * @Author: Jface
- * @Date: 2021/8/19 20:44
  * @Desc: 用JDBC客户端去连接thriftserver
  */
 object S6ThriftJDBC {

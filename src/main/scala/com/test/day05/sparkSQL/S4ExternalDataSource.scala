@@ -4,7 +4,6 @@ import org.apache.spark.sql.{DataFrame, SaveMode, SparkSession}
 
 /**
  * @Author: Jface
- * @Date: 2021/8/19 16:15
  * @Desc:
  */
 object S4ExternalDataSource {

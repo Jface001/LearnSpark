@@ -6,7 +6,6 @@ import org.apache.spark.sql.{DataFrame, SparkSession}
 
 /**
  * @Author: Jface
- * @Date: 2021/8/18 15:43
  * @Desc: 获取DataFrame: 通过元组 tuple
  */
 object S4DataFrameTuple {

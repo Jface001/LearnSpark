@@ -5,7 +5,6 @@ import org.apache.spark.{Partitioner, SparkConf, SparkContext, TaskContext}
 
 /**
  * @Author: Jface
- * @Date: 2021/8/15 19:44
  * @Desc: 学习Spark中设置分区个数方式
  *        repartition 增加分区个数
  *        coalesce 减少分区个数

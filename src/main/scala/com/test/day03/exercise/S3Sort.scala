@@ -5,7 +5,6 @@ import org.apache.spark.rdd.RDD
 
 /**
  * @Author: Jface
- * @Date: 2021/8/17 12:16
  * @Desc: 演示 Spark 中排序相关的函数使用
  */
 object S3Sort {

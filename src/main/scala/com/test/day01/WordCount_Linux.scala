@@ -5,7 +5,6 @@ import org.apache.spark.{SparkConf, SparkContext}
 
 /**
  * @Author: Jface
- * @Date: 2021/8/14 19:42
  * @Desc: Spark应用开发-Linux上实现WordCount
  */
 object WordCount_Linux {

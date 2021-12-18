@@ -5,7 +5,6 @@ import org.apache.spark.sql.{DataFrame, SparkSession}
 
 /**
  * @Author: Jface
- * @Date: 2021/8/18 11:42
  * @Desc:
  */
 object S1FirstSQL {

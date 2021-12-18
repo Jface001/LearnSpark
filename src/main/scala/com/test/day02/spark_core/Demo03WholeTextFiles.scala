@@ -5,7 +5,6 @@ import org.apache.spark.{SparkConf, SparkContext}
 
 /**
  * @Author: Jface
- * @Date: 2021/8/15 15:08
  * @Desc:
  */
 object Demo03WholeTextFiles {

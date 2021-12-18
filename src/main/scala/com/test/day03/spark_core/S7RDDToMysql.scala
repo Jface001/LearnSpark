@@ -7,7 +7,6 @@ import java.sql.{Connection, DriverManager, PreparedStatement, ResultSet}
 
 /**
  * @Author: Jface
- * @Date: 2021/8/17 15:42
  * @Desc:
  */
 object S7RDDToMysql {

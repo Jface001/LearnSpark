@@ -2,7 +2,6 @@ package com.test.day03.sougouQ
 
 /**
  * @Author: Jface
- * @Date: 2021/8/17 20:18
  * @Desc: 定义样例类, 用于保存每一条数据
  */
 

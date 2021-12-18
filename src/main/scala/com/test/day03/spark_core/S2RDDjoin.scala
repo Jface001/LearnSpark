@@ -5,7 +5,6 @@ import org.apache.spark.{SparkConf, SparkContext}
 
 /**
  * @Author: Jface
- * @Date: 2021/8/17 10:10
  * @Desc:
  */
 object S2RDDjoin {

@@ -4,7 +4,6 @@ import org.apache.spark.{SparkConf, SparkContext}
 
 /**
  * @Author: Jface
- * @Date: 2021/8/15 14:59
  * @Desc:
  */
 object Demo02TextFile {

@@ -5,7 +5,6 @@ import org.apache.spark.{SparkConf, SparkContext}
 
 /**
  * @Author: Jface
- * @Date: 2021/8/17 11:10
  * @Desc: 将文本内存持久化到磁盘或内存, 并统计行数
  */
 object S4Persist {

@@ -4,7 +4,6 @@ import org.apache.spark.sql.{DataFrame, Dataset, SparkSession}
 
 /**
  * @Author: Jface
- * @Date: 2021/8/19 10:23
  * @Desc: 读取电影评分数据案例
  */
 object S2Movie {

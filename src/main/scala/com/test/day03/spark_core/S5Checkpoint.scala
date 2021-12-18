@@ -4,7 +4,6 @@ import org.apache.spark.{SparkConf, SparkContext}
 
 /**
  * @Author: Jface
- * @Date: 2021/8/17 11:10
  * @Desc: 将文本内存持久化到HDFS
  */
 object S5Checkpoint {

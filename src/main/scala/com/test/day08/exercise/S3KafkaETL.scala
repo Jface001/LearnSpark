@@ -7,7 +7,6 @@ import org.apache.spark.sql.{DataFrame, Dataset, SparkSession}
 
 /**
  * @Author: Jface
- * @Date: 2021/8/27 8:20
  * @Desc: 模拟消费者, 消费 Kafka的数据, 并输出到 Kafka
  */
 object S3KafkaETL {

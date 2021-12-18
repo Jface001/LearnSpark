@@ -7,7 +7,6 @@ import org.apache.spark.sql.{DataFrame, Row, SparkSession}
 
 /**
  * @Author: Jface
- * @Date: 2021/8/18 16:02
  * @Desc:
  */
 object S5DataFrameFromSchema {

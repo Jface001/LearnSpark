@@ -4,7 +4,6 @@ import org.apache.spark.sql.Row
 
 /**
  * @Author: Jface
- * @Date: 2021/8/18 14:57
  * @Desc:
  */
 object S2Row {

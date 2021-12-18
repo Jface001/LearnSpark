@@ -8,7 +8,6 @@ import scala.util.Random
 
 /**
  * @Author: Jface
- * @Date: 2021/8/27 9:36
  * @Desc:
  */
 object S4MockIotDatas {

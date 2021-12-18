@@ -12,7 +12,6 @@ import scala.collection.mutable
 
 /**
  * @Author: Jface
- * @Date: 2021/8/22 9:59
  * @Desc: Spark  Kafka 手动提交 offset 到默认 MySQL
  */
 object S3KafkaOffsetToMysql {

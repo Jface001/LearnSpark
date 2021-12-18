@@ -5,7 +5,6 @@ import org.apache.spark.{Partitioner, SparkConf, SparkContext, TaskContext}
 
 /**
  * @Author: Jface
- * @Date: 2021/8/15 14:59
  * @Desc:
  */
 object Demo05SetPartition {

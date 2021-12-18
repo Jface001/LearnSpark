@@ -7,7 +7,6 @@ import org.apache.spark.{SparkConf, SparkContext}
 
 /**
  * @Author: Jface
- * @Date: 2021/8/21 12:03
  * @Desc:
  */
 object S1SocketWordcount {

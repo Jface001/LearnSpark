@@ -5,7 +5,6 @@ import org.apache.spark.sql.{DataFrame, Dataset, Row, SaveMode, SparkSession}
 
 /**
  * @Author: Jface
- * @Date: 2021/8/25 12:25
  * @Desc: 测试学习 StruturedStreaming 的 sink 特性, 使用 foreachbatch
  */
 object S2SinkForeachBatch {

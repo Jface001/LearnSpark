@@ -5,7 +5,6 @@ import org.apache.spark.rdd.RDD
 
 /**
  * @Author: Jface
- * @Date: 2021/8/15 20:39
  * @Desc: 测试Spark创建RDD, 从外部存储系统获取数据集
  */
 object Demo02TextFile {

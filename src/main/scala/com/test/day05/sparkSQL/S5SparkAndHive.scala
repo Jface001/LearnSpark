@@ -4,7 +4,6 @@ import org.apache.spark.sql.SparkSession
 
 /**
  * @Author: Jface
- * @Date: 2021/8/19 20:36
  * @Desc:
  */
 object S5SparkAndHive {

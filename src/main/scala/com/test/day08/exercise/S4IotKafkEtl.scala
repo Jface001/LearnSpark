@@ -6,7 +6,6 @@ import org.apache.spark.sql.{DataFrame, Dataset, SparkSession}
 
 /**
  * @Author: Jface
- * @Date: 2021/8/27 9:33
  * @Desc:
  */
 object S4IotKafkEtl {

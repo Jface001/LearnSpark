@@ -5,7 +5,6 @@ import org.apache.spark.sql.{DataFrame, Dataset, Row, SparkSession}
 
 /**
  * @Author: Jface
- * @Date: 2021/9/9 23:34
  * @Desc: 使用 SparkSQL 读取文本文件做 Wordcount，分别使用 DSL 和 SQL 风格实现
  */
 object Wordcount {

@@ -5,7 +5,6 @@ import org.apache.spark.{SparkConf, SparkContext}
 
 /**
  * @Author: Jface
- * @Date: 2021/8/15 20:25
  * @Desc: 学习RDD加载方式1: 并行化集合优化,
  */
 object Demo01_02Parallelize {

@@ -5,7 +5,6 @@ import org.apache.spark.rdd.RDD
 
 /**
  * @Author: Jface
- * @Date: 2021/8/17 11:49
  * @Desc: 学习 Spark 中 K-V 结构的聚合函数
  */
 object S1PairFunctions {

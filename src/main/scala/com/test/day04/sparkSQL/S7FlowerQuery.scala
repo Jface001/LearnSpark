@@ -7,7 +7,6 @@ import org.apache.spark.sql.{DataFrame, Row, SparkSession}
 
 /**
  * @Author: Jface
- * @Date: 2021/8/18 17:02
  * @Desc:
  */
 object S7FlowerQuery {

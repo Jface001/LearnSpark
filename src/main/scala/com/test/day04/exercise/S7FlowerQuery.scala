@@ -8,7 +8,6 @@ import org.apache.spark.sql.{DataFrame, Row, SparkSession}
 
 /**
  * @Author: Jface
- * @Date: 2021/8/18 17:44
  * @Desc: 案例1:花式查询, 学习SparkSQL 中的SQL风格数据分析和DSL风格分析
  */
 object S7FlowerQuery {

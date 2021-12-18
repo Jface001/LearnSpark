@@ -7,7 +7,6 @@ import org.apache.spark.{SparkConf, SparkContext}
 
 /**
  * @Author: Jface
- * @Date: 2021/8/21 12:03
  * @Desc: 通过 WordcountMapWithState 实现只输出有变动的内容
  */
 object S3SocketWordcountMapWithState {

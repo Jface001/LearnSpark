@@ -12,7 +12,6 @@ import scala.collection.mutable
 
 /**
  * @Author: Jface
- * @Date: 2021/8/17 20:24
  * @Desc: 实现日志数据分析的入口
  */
 object SougouQAnalyse {

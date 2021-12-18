@@ -8,7 +8,6 @@ import org.apache.spark.{SparkConf, SparkContext}
 
 /**
  * @Author: Jface
- * @Date: 2021/8/17 14:49
  * @Desc:
  * 以词频统计WordCount程序为例，假设处理的数据如下所示，
  * 包括非单词符号，统计数据词频时过滤非单词的特殊符号并且统计总的个数。

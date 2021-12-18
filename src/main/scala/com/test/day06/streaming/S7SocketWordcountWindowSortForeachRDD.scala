@@ -10,7 +10,6 @@ import java.sql.{Connection, DriverManager, PreparedStatement, Timestamp}
 
 /**
  * @Author: Jface
- * @Date: 2021/8/21 12:03
  * @Desc: 学习SparkSteaming的窗口函数, 并在结果做排序, 并分别输出到 控制台 磁盘 MySQL数据库
  */
 object S7SocketWordcountWindowSortForeachRDD {

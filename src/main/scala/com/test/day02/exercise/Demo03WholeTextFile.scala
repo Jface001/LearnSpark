@@ -5,7 +5,6 @@ import org.apache.spark.rdd.RDD
 
 /**
  * @Author: Jface
- * @Date: 2021/8/15 20:42
  * @Desc: Spark 创建RDD之 加载多个小文件
  */
 object Demo03WholeTextFile {

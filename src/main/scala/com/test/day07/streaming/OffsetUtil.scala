@@ -9,7 +9,6 @@ import java.sql.{DriverManager, ResultSet}
 
 /**
  * @Author: Jface
- * @Date: 2021/8/22 12:32
  * @Desc: 定义一个单例对象, 定义 2 个方法
  *        方法1: 从 MySQL 读取行偏移量
  *        方法2: 将行偏移量保存的 MySQL

@@ -6,7 +6,6 @@ import org.apache.spark.sql.types.{IntegerType, StringType, StructField, StructT
 
 /**
  * @Author: Jface
- * @Date: 2021/8/22 20:35
  * @Desc: wordcount 案例 之 读取文件
  */
 object S2StructuredStreamingTextFile {

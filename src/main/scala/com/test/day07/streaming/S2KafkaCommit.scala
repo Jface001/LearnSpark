@@ -9,7 +9,6 @@ import org.apache.spark.{SparkConf, SparkContext}
 
 /**
  * @Author: Jface
- * @Date: 2021/8/22 9:59
  * @Desc: Spark  Kafka 手动提交 offset 到默认 topic
  */
 object S2KafkaCommit {

@@ -10,7 +10,6 @@ import scala.collection.mutable.Set
 
 /**
  * @Author: Jface
- * @Date: 2021/8/22 9:59
  * @Desc: Spark  Kafka自动提交offset
  */
 object S1KafkaAutoCommit {

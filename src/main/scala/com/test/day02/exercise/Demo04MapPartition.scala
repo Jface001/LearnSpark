@@ -5,7 +5,6 @@ import org.apache.spark.{SparkConf, SparkContext}
 
 /**
  * @Author: Jface
- * @Date: 2021/8/15 20:12
  * @Desc: 学习Spark分区操作函数
  */
 object Demo04MapPartition {

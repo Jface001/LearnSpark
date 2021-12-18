@@ -6,7 +6,6 @@ import org.apache.spark.sql.{DataFrame, SparkSession}
 
 /**
  * @Author: Jface
- * @Date: 2021/8/18 18:28
  * @Desc: 通过样例类创建DataFrame对象
  */
 object S3DataFrameCaseClass {

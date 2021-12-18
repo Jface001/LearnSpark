@@ -5,7 +5,6 @@ import org.apache.spark.sql.{DataFrame, Dataset, Row, SparkSession}
 
 /**
  * @Author: Jface
- * @Date: 2021/8/22 17:01
  * @Desc: Wordvount案例-读取 socket 源
  */
 object S1StructuredStreamingSocket {

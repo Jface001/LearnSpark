@@ -5,7 +5,6 @@ import org.apache.spark.{SparkConf, SparkContext}
 
 /**
  * @Author: Jface
- * @Date: 2021/8/17 9:38
  * @Desc: 学习 PairRDDFunctions 的使用
  */
 object S1PairRDDFunctions {
